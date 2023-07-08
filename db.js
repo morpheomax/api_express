@@ -1,0 +1,1 @@
+[{"id":1,"nombre":"guitarra","marca":"fender","modelo":"stratocaster","precio":50000,"cantidad":3},{"id":2,"marca":"Yamaha","modelo":"Pacifica","precio":"12000","cantidad":8}]
